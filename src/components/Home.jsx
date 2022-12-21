@@ -71,7 +71,7 @@ const MyCarousel = () => (
   <Carousel
     autoPlay
     infiniteLoop
-    interval={1000}
+    interval={3000}
     showStatus={false}
     showThumbs={false}
     showArrows={false}
